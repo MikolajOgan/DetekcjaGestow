@@ -1,1 +1,1 @@
-# DetekcjaGestow
+# Detekcja gestów
